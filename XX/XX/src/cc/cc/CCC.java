@@ -6,7 +6,5 @@ public class CCC {
 		// TODO Auto-generated method stub
 		System.out.println("少时诵诗书所"); //dev分支 ??
 		
-		//devPP     JJJa
-		//a
 	}
 }
